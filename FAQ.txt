@@ -1,0 +1,47 @@
+Frequently Asked Questions :
+
+NOTE:
+Microsoft dot net frameworks 4.5 or higher is required to run Batch Compiler properly.
+It's included in Batch Compiler Installer and being installed when you install Batch Compiler.
+If you think .net frameworks has not installed properly, feel free to install it manually from--
+
+"%ProgramFiles%\Batch Compiler\redist\NDP452-KB2901954-Web.exe" 
+
+
+
+
++ Why Batch Compiler?
+
+    (a)--Its has the best tools and environment to develop a batch program.
+    (b)--This is real compiling. Not packing and running from %temp% directory.
+    (c)--It has over 40 Advance Commands which are unavailable in other solutions.
+    (d)--It has a debugger, that check your code for errors and save your development time.
+    finally, You can draw graphics and animations in batch files with Batch Compiler.
+
+
+
+
++ When do I have to buy a license?
+
+    Well, You are free to use the compiled executables in compiled PC without any restrictions.
+    But you will have to buy either a Business or Home license as you choose, if you are going 
+    to distribute your executables. Read more about buying a license here.
+
+
+
++ What is the relation with Advance BAT to EXE Converter?
+
+    Batch Compiler uses a specially designed version of Advance BAT to EXE Converter as the core
+    compiler which is called Advance BAT to EXE Converter BC. The best batch development environment
+    along with the best bat-to-exe converter put together, we provide you the best solution ever in 
+    the market for compiling batch files.
+
+
+
++ Do I have to modify my batch files before compiling?
+
+    Not at all. You can compile your files as they are, Because our compiler do the hard work for you.
+    Batch Compiler can handle any complex or long syntax very easily.
+
+
+

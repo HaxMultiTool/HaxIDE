@@ -1,0 +1,17 @@
+
+System Requirments :
+
+
+    + Windows 7 or higher
+
+    + Microsoft .Net Frameworks 4.5 or higher.(4.5.2 Included).
+
+    + 10 Megabytes disk space.
+
+
+NOTE:
+Microsoft dot net frameworks 4.5 or higher is required to run Batch Compiler properly.
+It's included in Batch Compiler Installer and being installed when you install Batch Compiler.
+If you think .net frameworks has not installed properly, feel free to install it manually from--
+
+"%ProgramFiles%\Batch Compiler\redist\NDP452-KB2901954-Web.exe" 
